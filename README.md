@@ -1,6 +1,6 @@
 ### Hi! Im yoonjin 👻
 
-#### learning AI 🤖 / Web 💻 
+#### AI 🤖 / Web 💻 
 ---
 
 <br>
