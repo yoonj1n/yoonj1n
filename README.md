@@ -3,6 +3,13 @@
 #### AI 🤖 / Web 💻 
 ---
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yoonj1n&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/yoonj1n"
+  width="600"
+  height="300"
+/>
+</a>
 <br>
 
 🦾 My Stack
